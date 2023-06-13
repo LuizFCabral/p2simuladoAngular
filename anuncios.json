@@ -13,6 +13,13 @@
       "titulo": "Geladeira LG",
       "descr": "Geladeira Cinza",
       "anunciante": "LG"
+    },
+    {
+      "id": 3,
+      "imagem": "https://m.media-amazon.com/images/I/61-DBIoQu6L._AC_SX679_.jpg",
+      "titulo": "Jeep Renegade",
+      "descr": "Um carro legal pra andar",
+      "anunciante": "Amazon"
     }
   ]
 }

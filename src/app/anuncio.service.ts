@@ -11,6 +11,10 @@ export class AnuncioService {
 
   constructor(private http: HttpClient) {}
 
+  getAnuncios(): Observable<Anuncios[]> {
+    return this.http.get<Anuncios[]>(this.url);
+  }
+
   save(anuncios: Anuncios):  Observable<Anuncios>{
     return this.http.post<Anuncios>(this.url, anuncios);
   }
