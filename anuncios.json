@@ -6,6 +6,13 @@
       "titulo": "Arno Cafeteira",
       "descr": "Espresso Nescafé Dolce Gusto Genio S Plus DGS3, Vermelha",
       "anunciante": "Amazon"
+    },
+    {
+      "id": 2,
+      "imagem": "https://www.lg.com/br/images/geladeiras/md07566901/gallery/D-01.jpg",
+      "titulo": "Geladeira LG",
+      "descr": "Geladeira Cinza",
+      "anunciante": "LG"
     }
   ]
 }
