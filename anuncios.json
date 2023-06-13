@@ -20,6 +20,20 @@
       "titulo": "Jeep Renegade",
       "descr": "Um carro legal pra andar",
       "anunciante": "Amazon"
+    },
+    {
+      "id": 4,
+      "imagem": "https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/t150/dellemc-pet150-emc-lf.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=395&qlt=100,1&resMode=sharp2&size=395,402&chrss=full",
+      "titulo": "Servidor Torre PowerEdge T150",
+      "descr": "Ideal para primeiro servidor. Versátil, silencioso e fácil utilização.",
+      "anunciante": "Dell"
+    },
+    {
+      "id": 5,
+      "imagem": "https://m.media-amazon.com/images/I/41+qb5G9XuL._AC_SX522_.jpg",
+      "titulo": "Caderno Rosa",
+      "descr": "capa plástica sem pauta 1/8 80 folhas Neon Roxo Tilibra",
+      "anunciante": "Amazon"
     }
   ]
 }
