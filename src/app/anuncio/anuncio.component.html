@@ -51,8 +51,8 @@
   </div>
 </div>
 <div class="container d-flex flex-wrap mt-5" >
-    <div *ngFor="let anuncio of anuncio" class="card mb-3 me-3" style="width: 30%;">
-      <img src={{anuncio.imagem}} class="card-img-top" alt={{anuncio.titulo}} style="max-height: 20rem;">
+    <div *ngFor="let anuncio of anuncio" class="card mb-3 me-3" style="width: 30%; ">
+      <img src={{anuncio.imagem}} class="card-img-top img-fluid img-thumbnail" alt={{anuncio.titulo}} >
       <div class="card-body">
         <h5 class="card-title">{{anuncio.titulo}}</h5>
         <p class="card-text">{{anuncio.descr}}</p>
