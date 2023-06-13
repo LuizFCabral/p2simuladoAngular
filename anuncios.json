@@ -1,0 +1,11 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "imagem": "https://m.media-amazon.com/images/I/51rUpvEIMrL._AC_SX569_.jpg",
+      "titulo": "Arno Cafeteira",
+      "descr": "Espresso Nescafé Dolce Gusto Genio S Plus DGS3, Vermelha",
+      "anunciante": "Amazon"
+    }
+  ]
+}
